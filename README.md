@@ -1,4 +1,4 @@
-# SalaryPrediction
+# Salary Prediction
 Salary Prediction Project Based On Job Descriptions (Python)
 
 ![alt_text](https://martechtoday.com/wp-content/uploads/cld-assets/salary-men-women-figurines-coin-stacks-ss-1920_zy4acr.jpg)
