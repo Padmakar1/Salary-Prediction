@@ -60,4 +60,4 @@ I intended to bring down the MSE to less than 360. Which ever model gives me val
 GradientBoosting works best for our data. MSE for gradientBoosting model is 364.85. This result is found for default parameters. 
 
 # Feature Importance
-Feature importance method is used to find the important features that influences the predictions. Most important features are identified as jobtype, yearsExperience and milefrommetropolices.
+Feature importance method is used to find the important features that influences the predictions. Most important features are identified as jobtype, yearsExperience and milefrommetropolices. 
