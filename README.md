@@ -41,7 +41,7 @@ There are no missing and duplicate values in the dataset.
 
  ### Please check the notebook for complete analysis of the Data set, including data preprocessing and Exploratory Data Analysis
 
-### Results
+### Results 
 
 #### Baseline model
 I have build a baseline model to test different other Machine learning models based on this. My baseline model was built based on average salary for a particular industry. Here I have taken the average salary for that insustry as predicted values and calculated the men square error which was 1367.122.
